@@ -1,0 +1,13 @@
+{
+  "name": "Status Bars",
+  "version": "0.2.3",
+  "contactEmailAddress": "xeoncantremember@gmail.com",
+  "hasSettingsIcon": true,
+  "hasRibbonIcon": true,
+  "requiredDependencies": {
+    "prettyui": 6398181
+  },
+  "optionalDependencies": {},
+  "requiredPermissions": [],
+  "optionalPermissions": []
+}
