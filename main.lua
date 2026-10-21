@@ -3,7 +3,7 @@
 local EVENT_LOGIC = "status-bars-logic"
 local EVENT_SETTINGS = "status-bars-settings"
 local EVENT_CONTENT = "status-bars-content"
-local UPDATE_INTERVAL = 30 -- Match the 600 ms RuneScape server tick.
+local UPDATE_INTERVAL = 10 -- 200 ms
 local MOUNT_INTERVAL = 25 -- Retry while the game interface is loading.
 local SAVE_INTERVAL = 50 -- Check the widget position and size once per second.
 local GAP = 2 -- Space between adjacent bars.
