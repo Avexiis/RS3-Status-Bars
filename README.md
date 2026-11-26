@@ -29,11 +29,11 @@ Data Protection
 -
 Status Bars uses the following information to provide its functionality:
 
-Player health
-Player run energy
-Player prayer points
-Player summoning points
-Player adrenaline/special attack
+- Player health
+- Player run energy
+- Player prayer points
+- Player summoning points
+- Player adrenaline/special attack
 
 Player info is not kept persistently by the plugin, only user-selected settings are stored.
 
