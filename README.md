@@ -15,7 +15,7 @@ It can be displayed horizontally and vertically.
 
 Credits
 -
-J3 - PrettyUI which Status Bars uses for displaying the bar interface
+J3 - [PrettyUI](https://mod.io/g/runescape/m/prettyui#description) which Status Bars uses for displaying the bar interface
 
 EULA
 -
